@@ -1,0 +1,30 @@
+{
+  "name": "nations",
+  "version": "0.0.1",
+  "description": "A library for getting country information, such as languages, flags, currencies, etc. ",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mircoxi/nations.git"
+  },
+  "keywords": [
+    "nations",
+    "countries",
+    "flags",
+    "currency",
+    "currencies",
+    "data"
+  ],
+  "author": "Jess Stingray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mircoxi/nations/issues"
+  },
+  "homepage": "https://github.com/Mircoxi/nations#readme"
+}
